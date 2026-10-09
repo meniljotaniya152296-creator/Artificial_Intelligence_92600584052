@@ -1,10 +1,3 @@
-# Expert system
-# Answer the follwing questionwith yes / no.
-    #Do oyu have fever? : Yes / No
-    #Do oyu have cough? : Yes / No
-    #Do oyu have headach? : Yes / No
-
-
 print("============== EXPERT SYSTEM ==============")
 print("Answer the follwing questionwith yes / no.")
 print("\n")
