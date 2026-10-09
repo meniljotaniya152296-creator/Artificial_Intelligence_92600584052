@@ -1,7 +1,3 @@
-print("==============================")
-print("    CAREER GUIDENCE SYSTEM    ")
-print("==============================")
-
 print("Answer the following question with yes or no.")
 print("\n")
 
@@ -11,7 +7,6 @@ bio = str(input("Do You Linke Biology (Y/N): "))
 drw = str(input("Do You Linke Drawing (Y/N): "))
 print("\n")
 
-print("==========Career Suggestion ==========")
 print("\n")
 
 if coding == "n" and math == "n" and bio == "n" and drw == "n":
